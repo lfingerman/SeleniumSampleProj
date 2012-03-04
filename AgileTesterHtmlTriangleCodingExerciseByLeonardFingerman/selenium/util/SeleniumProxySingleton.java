@@ -2,18 +2,8 @@ package util;
 
 import java.net.Socket;
 
-//import org.openqa.selenium.server.RemoteControlConfiguration;
-//import org.openqa.selenium.server.SeleniumServer;
-import org.openqa.selenium.Capabilities;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.remote.internal.*;
-import org.openqa.selenium.remote.*;
-//import org.mortbay.jetty.*;
-import org.mortbay.jetty.Connector;
-import org.mortbay.jetty.Server;
-import org.mortbay.jetty.nio.SelectChannelConnector;
-import org.mortbay.jetty.security.SslSocketConnector;
-import org.mortbay.jetty.webapp.WebAppContext;
+import org.openqa.selenium.server.RemoteControlConfiguration;
+import org.openqa.selenium.server.SeleniumServer;
 
 public abstract class SeleniumProxySingleton {
     protected static final String SELENIUM_SERVER_HOST = "localhost";
