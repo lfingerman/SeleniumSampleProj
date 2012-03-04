@@ -1,4 +1,6 @@
-This Selenium sample project is based on Selenium RC.
+This Java-based Selenium sample project is based on Selenium RC.
 TestNG as test driver/runner
-I did not bother updating it with WebDriver 
+It can serve as a basic example for a modular-based framework.
+I haven't bothered updating it with WebDriver yet.
+
 
