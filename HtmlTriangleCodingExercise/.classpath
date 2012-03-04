@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="testingFramework"/>
+	<classpathentry kind="src" path="webAppGuiTests"/>
+	<classpathentry kind="src" path="selenium"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/testng-5.9-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-2.20.0/selenium-2.20.0/selenium-java-2.20.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-2.20.0/selenium-2.20.0/selenium-java-2.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumRelatedJars/jetty-6.1.8.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumRelatedJars/org.mortbay.jetty-jdk1.2-5.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
